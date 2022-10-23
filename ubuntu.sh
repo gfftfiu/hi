@@ -1,4 +1,7 @@
+pkg update
+pkg uppgrade
+apt update
+apt upgrade
 clear
 echo "Hello and welcome to my test"
-pkg update
-pkg upgrade
+sleep 2
