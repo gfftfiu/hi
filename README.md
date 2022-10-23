@@ -5,7 +5,7 @@
 ##### Istall git and gh:
 $ pkg install git && pkg install gh
 ##### Clone:
-$ gh repo clone gfftfiu/hi
+$ git clone https://github.com/gfftfiu/hi.git
 ##### Open with locating to the file:
 $ cd hi
 ###### $ chmod +x ubuntu.sh
